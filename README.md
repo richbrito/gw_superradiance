@@ -5,10 +5,11 @@ Provides useful data and tools to study the gravitational wave emission of a sca
 Some computations make use of the [Black Hole Perturbation toolkit](http://bhptoolkit.org/Teukolsky/) and also use results from [arXiv:gr-qc/0306120
 ](https://arxiv.org/abs/gr-qc/0306120), [arXiv:0705.2880](https://arxiv.org/abs/0705.2880) and [arXiv:1312.2326](https://arxiv.org/abs/1312.2326). 
 
+Some of the results for the GW flux served as input for the python package [gwaxion](https://pypi.org/project/gwaxion/0.0.1/).
 
 # Credit
 
-If you make use of this code for your own publications please cite:
+Developed and maintained by [Richard Brito](https://richardbrito.weebly.com/). If you make use of the tools or the data for your own publications please cite:
 
 ```
 @article{Brito:2017zvb,
