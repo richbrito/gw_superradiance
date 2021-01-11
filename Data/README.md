@@ -1,6 +1,6 @@
 # Data
 
-Data has computed assuming that the dimensionless black hole spin is given by $\chi=\chi_f$, eq. 12 in [arXiv:1810.03812](https://arxiv.org/pdf/1810.03812.pdf).
+Data has computed assuming that the dimensionless black hole spin is given by \chi=\chi_f, eq. 12 in [arXiv:1810.03812](https://arxiv.org/pdf/1810.03812.pdf).
 
 ### Data for amplitudes A as defined in eq.(19) of  [arXiv:1810.03812](https://arxiv.org/pdf/1810.03812.pdf): 
 
