@@ -5,7 +5,7 @@ This repository contains data and tools that can be used to compute the gravitat
 Some computations make use of the [Black Hole Perturbation toolkit](http://bhptoolkit.org/Teukolsky/) and also use results from [arXiv:gr-qc/0306120
 ](https://arxiv.org/abs/gr-qc/0306120), [arXiv:0705.2880](https://arxiv.org/abs/0705.2880) and [arXiv:1312.2326](https://arxiv.org/abs/1312.2326). 
 
-Some of the results for the GW flux served as input for the python package [gwaxion](https://pypi.org/project/gwaxion/0.0.1/).
+Some of the results for the gravitational-wave flux served as input for the python package [gwaxion](https://pypi.org/project/gwaxion/0.0.1/).
 
 # Credit
 
