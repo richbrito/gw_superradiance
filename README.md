@@ -1,6 +1,6 @@
 # Gravitational waves from boson clouds
 
-Provides useful data and tools to study the gravitational wave emission of a scalar cloud around a Kerr black hole. The code was primarily developed in writing [arXiv:1706.06311](https://arxiv.org/abs/1706.06311) and [arXiv:1706.05097](https://arxiv.org/abs/1706.05097) with some improvements since then. In particular,  to obtain the homogenous solutions to the Teukolsky equation when computing the gravitational wave flux a direct integration method was used in those papers. It is now possible to also use the MST method as implemented in the [Black Hole Perturbation toolkit](http://bhptoolkit.org/Teukolsky/).
+Provides data and tools to compute the gravitational wave emission of a scalar cloud around a Kerr black hole. The code was primarily developed in writing [arXiv:1706.06311](https://arxiv.org/abs/1706.06311) and [arXiv:1706.05097](https://arxiv.org/abs/1706.05097) with some improvements since then. In particular,  to obtain the homogenous solutions to the Teukolsky equation when computing the gravitational wave flux a direct integration method was used in those papers. It is now also possible to use the MST method as implemented in the [Black Hole Perturbation toolkit](http://bhptoolkit.org/Teukolsky/).
 
 Some computations make use of the [Black Hole Perturbation toolkit](http://bhptoolkit.org/Teukolsky/) and also use results from [arXiv:gr-qc/0306120
 ](https://arxiv.org/abs/gr-qc/0306120), [arXiv:0705.2880](https://arxiv.org/abs/0705.2880) and [arXiv:1312.2326](https://arxiv.org/abs/1312.2326). 
