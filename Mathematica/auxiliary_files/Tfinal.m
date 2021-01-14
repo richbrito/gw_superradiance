@@ -1,4 +1,4 @@
-{8*Pi*(r - I*a*Cos[\[Theta]])^4*(r^2 + a^2*Cos[\[Theta]]^2)*
+{16*Pi^2*(r - I*a*Cos[\[Theta]])^4*(r^2 + a^2*Cos[\[Theta]]^2)*
   (-1/4*((a^2 - 2*M*r + r^2)^2*(4*(r - I*a*Cos[\[Theta]])^3*
         (-1/32*(A0^2*E^((2*I)*(m*\[CurlyPhi] - t*\[Omega]))*Csc[\[Theta]]^2*
             R[r]^2*((2*m - a*\[Omega] + a*\[Omega]*Cos[2*\[Theta]])*S[
