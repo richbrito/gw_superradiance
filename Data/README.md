@@ -11,7 +11,7 @@ Data has been computed assuming that the dimensionless black hole spin is given 
   - Z32_MST.dat ->  l_gw=3,m_gw=2 GW mode, using MST method to compute homogeneous solutions to Teukolsky's equation
 
 
-### Data for GW flux. Note that the summation over positive and negative mGW is already done.
+### Data for GW flux. Note that this already includes the summation over positive and negative m_gw..
 
 - first column: M\mu, second column: dE/dt/(M_s/M)^2
   - fluxGWl2m2.dat -> dE/dt/(M_s/M)^2 for the l_gw=2,m_gw=2 GW mode, using direct integration method
