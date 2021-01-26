@@ -8,7 +8,7 @@ Some computations make use of the [Black Hole Perturbation toolkit](http://bhpto
 
 Some of the results for the gravitational-wave flux served as input for the python package [gwaxion](https://pypi.org/project/gwaxion/0.0.1/).
 
-# Credit
+## Credit
 
 Developed and maintained by [Richard Brito](https://richardbrito.weebly.com/). If you make use of the tools or the data for your own publications please cite:
 
@@ -28,6 +28,6 @@ Developed and maintained by [Richard Brito](https://richardbrito.weebly.com/). I
 }
 ```
 
-# Funding 
+## Funding 
 
 This research has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 792862 [FunGraW - "Fundamental physics in the era of gravitational-wave astronomy"](https://cordis.europa.eu/project/id/792862).
