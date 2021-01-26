@@ -1,6 +1,6 @@
 # Gravitational waves from boson clouds
 
-This repository contains tools and data that can be used to compute the gravitational wave emission of a scalar cloud around a Kerr black hole. The code was primarily developed in writing [arXiv:1706.06311](https://arxiv.org/abs/1706.06311) and [arXiv:1706.05097](https://arxiv.org/abs/1706.05097).
+This repository contains tools and data that can be used to compute the gravitational wave emission of a scalar cloud around a Kerr black hole. The code was primarily developed in writing [arXiv:1706.06311](https://arxiv.org/abs/1706.06311) and [arXiv:1706.05097](https://arxiv.org/abs/1706.05097), with some improvements since then.
 
 
 Some computations make use of the [Black Hole Perturbation toolkit](http://bhptoolkit.org/Teukolsky/) and also use results from [arXiv:gr-qc/0306120
