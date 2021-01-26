@@ -26,3 +26,5 @@ Developed and maintained by [Richard Brito](https://richardbrito.weebly.com/). I
     pages = "064050",
     year = "2017"
 }
+
+This research has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 792862 [FunGraW - "Fundamental physics in the era of gravitational-wave astronomy"](https://cordis.europa.eu/project/id/792862).
