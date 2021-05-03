@@ -1,6 +1,6 @@
 # Gravitational waves from boson clouds
 
-This repository contains tools and data that can be used to compute the gravitational wave emission of a scalar cloud around a Kerr black hole. The code was primarily developed in writing [arXiv:1706.06311](https://arxiv.org/abs/1706.06311) and [arXiv:1706.05097](https://arxiv.org/abs/1706.05097).
+This repository contains tools and data that can be used to compute the gravitational wave emission of a scalar cloud around a Kerr black hole. The code was primarily developed in writing [arXiv:1706.06311](https://arxiv.org/abs/1706.06311) and [arXiv:1706.05097](https://arxiv.org/abs/1706.05097), with some improvements since then.
 
 
 Some computations make use of the [Black Hole Perturbation toolkit](http://bhptoolkit.org/Teukolsky/) and also use results from [arXiv:gr-qc/0306120
@@ -8,7 +8,7 @@ Some computations make use of the [Black Hole Perturbation toolkit](http://bhpto
 
 Some of the results for the gravitational-wave flux served as input for the python package [gwaxion](https://pypi.org/project/gwaxion/0.0.1/).
 
-# Credit
+## Credit
 
 Developed and maintained by [Richard Brito](https://richardbrito.weebly.com/). If you make use of the tools or the data for your own publications please cite:
 
@@ -26,3 +26,8 @@ Developed and maintained by [Richard Brito](https://richardbrito.weebly.com/). I
     pages = "064050",
     year = "2017"
 }
+```
+
+## Funding 
+
+This research has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 792862 [FunGraW - "Fundamental physics in the era of gravitational-wave astronomy"](https://cordis.europa.eu/project/id/792862).
